@@ -1,3 +1,3 @@
 # SomeUniqueBananas
 
-- app schema `sub://` 
+- app schema `subananas://` 
